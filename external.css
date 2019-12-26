@@ -1,0 +1,22 @@
+body
+{
+  text-align:center;
+  background-color: #90303d;
+}
+#resultboard
+{
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+.main
+{
+  margin-top: 7%;
+  margin-left:230px;
+  width:70%;
+  height:500px;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 70px 200px;
+}
